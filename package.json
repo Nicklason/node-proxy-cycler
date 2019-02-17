@@ -1,0 +1,32 @@
+{
+  "name": "proxy-cycler",
+  "version": "1.0.0",
+  "description": "Cycle through HTTP proxies",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicklason/node-proxy-cycler.git"
+  },
+  "author": {
+    "name": "Nicklas Marc Pedersen",
+    "url": "https://nicklas.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicklason/node-proxy-cycler/issues"
+  },
+  "homepage": "https://github.com/Nicklason/node-proxy-cycler#readme",
+  "dependencies": {
+    "is-ip": "^2.0.0",
+    "is-object": "^1.0.1",
+    "is-valid-domain": "0.0.7",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-google": "^0.12.0"
+  }
+}

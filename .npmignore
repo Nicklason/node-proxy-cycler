@@ -60,5 +60,17 @@ typings/
 # next.js build output
 .next
 
+# Test builds
+test/
+*.yml
+
 # Local testing environment
 local/
+
+# Linting
+.eslintignore
+.eslintrc
+
+# git
+.gitignore
+.gitattributes
