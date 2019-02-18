@@ -1,6 +1,6 @@
 {
   "name": "proxy-cycler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cycle through HTTP proxies",
   "main": "index.js",
   "scripts": {
